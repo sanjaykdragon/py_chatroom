@@ -13,8 +13,11 @@ multithreading was used to consistently update the chat messages on your screen.
 
 #### links
 php backend - https://github.com/sanjaykdragon/py_chatroom_backend
+
 ~170 LOC (although very unclean code, this could probably be shortened way more)
+
 python client - https://github.com/sanjaykdragon/py_chatroom
+
 more than 200 LOC (nicely commented, pretty clean)
 
 #### features
