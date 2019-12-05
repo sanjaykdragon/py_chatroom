@@ -1,0 +1,3 @@
+termcolor
+simple-crypt
+profanityfilter
