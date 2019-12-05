@@ -37,7 +37,9 @@ the rest of the imports are more or less general / internal imports.
 
 #### commands
 /unblock user - unblocks a user
+
 /block user - blocks a user
+
 /lb - list blocked users
 
 #### admin commands
